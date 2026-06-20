@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Расстановка_скобок/Расстановка_скобок.csproj" />
+  <Project Path="Тесты_Расстановка_Скобок/Тесты_Расстановка_Скобок.csproj" Id="ba16ca1f-b781-4bc2-8dd2-325b44f5f42d" />
+</Solution>
