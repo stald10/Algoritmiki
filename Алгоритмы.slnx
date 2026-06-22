@@ -2,6 +2,9 @@
   <Folder Name="/Высота дерева/">
     <Project Path="Высота_Дерева/Высота_Дерева.csproj" Id="6919e1fe-adc4-40c9-8ea2-9d6492c75d79" />
   </Folder>
+  <Folder Name="/Обработка сетевых пакетов/">
+    <Project Path="Обработка_Сетевых_Пакетов/Обработка_Сетевых_Пакетов.csproj" Id="8f641ad7-aca4-4a68-9ea2-16bd230b9bc6" />
+  </Folder>
   <Folder Name="/Скобки в коде/">
     <Project Path="Расстановка_скобок/Расстановка_скобок.csproj" />
     <Project Path="Тесты_Расстановка_Скобок/Тесты_Расстановка_Скобок.csproj" Id="ba16ca1f-b781-4bc2-8dd2-325b44f5f42d" />
