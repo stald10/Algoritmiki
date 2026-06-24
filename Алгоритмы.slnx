@@ -1,4 +1,7 @@
 <Solution>
+  <Folder Name="/LeetCode 239. Sliding Window Maximum/">
+    <Project Path="Максимум_в_скользящем_окне/Максимум_в_скользящем_окне.csproj" Id="8aa47f63-5805-447a-9d5b-0ff548d06221" />
+  </Folder>
   <Folder Name="/Высота дерева/">
     <Project Path="Высота_Дерева/Высота_Дерева.csproj" Id="6919e1fe-adc4-40c9-8ea2-9d6492c75d79" />
   </Folder>
@@ -11,5 +14,8 @@
   <Folder Name="/Скобки в коде/">
     <Project Path="Расстановка_скобок/Расстановка_скобок.csproj" />
     <Project Path="Тесты_Расстановка_Скобок/Тесты_Расстановка_Скобок.csproj" Id="ba16ca1f-b781-4bc2-8dd2-325b44f5f42d" />
+  </Folder>
+  <Folder Name="/Тест Ввод/">
+    <Project Path="Input/Input.csproj" Id="90d56301-cdf4-49fc-85e8-b88b41fa1aeb" />
   </Folder>
 </Solution>

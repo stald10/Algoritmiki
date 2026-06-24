@@ -1,4 +1,11 @@
-﻿namespace SMax
+﻿using System;
+using System.Collections.Generic;
+using System.IO;
+using System.Linq;
+using System.Net.Http;
+using System.Threading;
+using System.Threading.Tasks;
+namespace SMax
 {
     public class StackMax
     {
@@ -14,17 +21,11 @@
                 string[] input = Console.ReadLine()!.Split();
 
                 string operation = input[0];
-                int elem = 0;
-
-                if (operation.Length != 3) 
-                {
-                    elem = int.Parse(input[1]);
-                } 
 
                 switch (operation) 
                 {
                     case "push" :
-                        
+                        int elem = int.Parse(input[1]);
                         _stackElem.Push(elem);
                         if (_stackMax.Count == 0) _stackMax.Push(elem);
                         else 
@@ -42,6 +43,11 @@
                 }
 
                 
+            }
+            Console.WriteLine("====Max====");
+            foreach (var elem in _stackMax) 
+            {
+                Console.WriteLine(elem);
             }
 
         }
