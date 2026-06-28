@@ -5,11 +5,27 @@
   <Folder Name="/Высота дерева/">
     <Project Path="Высота_Дерева/Высота_Дерева.csproj" Id="6919e1fe-adc4-40c9-8ea2-9d6492c75d79" />
   </Folder>
+  <Folder Name="/Диск/">
+    <Project Path="Башня/Башня.csproj" Id="b4c9de03-6aa6-4e32-9415-61e211128919" />
+  </Folder>
+  <Folder Name="/Нули/">
+    <Project Path="Подсчёт_Нулей/Подсчёт_Нулей.csproj" Id="24ef376b-dee1-4235-8a43-b2d130945cd0" />
+    <Project Path="сум/сум.csproj" Id="8bc24218-2e94-4f07-9710-38880e51d66c" />
+  </Folder>
   <Folder Name="/Обёртка над стеком/">
     <Project Path="Стек_с_поддержкой_максимума/Стек_с_поддержкой_максимума.csproj" Id="a22883ef-fb6a-46b6-894b-a9e42863d888" />
   </Folder>
   <Folder Name="/Обработка сетевых пакетов/">
     <Project Path="Обработка_Сетевых_Пакетов/Обработка_Сетевых_Пакетов.csproj" Id="8f641ad7-aca4-4a68-9ea2-16bd230b9bc6" />
+  </Folder>
+  <Folder Name="/Палиндром/">
+    <Project Path="Палиндром/Палиндром.csproj" Id="b891ef16-aa19-4072-89bd-ff1ec497c8fe" />
+  </Folder>
+  <Folder Name="/Подсчёт Степени/">
+    <Project Path="Степень/Степень.csproj" Id="488b8bb5-5f9e-4d12-a1ce-669efef48588" />
+  </Folder>
+  <Folder Name="/Подсчёт/">
+    <Project Path="Подсчёт/Подсчёт.csproj" Id="4181f36e-ba86-4682-bd17-b97a971b82a0" />
   </Folder>
   <Folder Name="/Скобки в коде/">
     <Project Path="Расстановка_скобок/Расстановка_скобок.csproj" />
@@ -17,5 +33,8 @@
   </Folder>
   <Folder Name="/Тест Ввод/">
     <Project Path="Input/Input.csproj" Id="90d56301-cdf4-49fc-85e8-b88b41fa1aeb" />
+  </Folder>
+  <Folder Name="/Числа/">
+    <Project Path="число_в_интервале/число_в_интервале.csproj" Id="bb8da0ab-4989-4529-8c0d-1ed6911d52ce" />
   </Folder>
 </Solution>
