@@ -34,6 +34,9 @@
   <Folder Name="/Примитивные задачи/Тест Ввод/">
     <Project Path="Input/Input.csproj" Id="90d56301-cdf4-49fc-85e8-b88b41fa1aeb" />
   </Folder>
+  <Folder Name="/Примитивные задачи/Транспонирование/">
+    <Project Path="Транспонирование_плотное представление/Транспонирование_плотное представление.csproj" Id="95a05558-0333-497f-b419-10d53193d3ca" />
+  </Folder>
   <Folder Name="/Примитивные задачи/Числа/">
     <Project Path="число_в_интервале/число_в_интервале.csproj" Id="bb8da0ab-4989-4529-8c0d-1ed6911d52ce" />
   </Folder>
